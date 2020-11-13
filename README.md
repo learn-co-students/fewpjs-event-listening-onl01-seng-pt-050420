@@ -19,7 +19,7 @@ It allows us to associate "hearing" an event with executing a callback.
 `addEventListener()` takes two arguments:
 
 1. the name of the event
-2. a _callback function_ to "handle" the event
+2. a _callback function_ to "handle" the event 
 
 Take a look at `index.html` in the browser. When you click in the `<input>`
 area, nothing happens. Now let's set up some _event handling_.
